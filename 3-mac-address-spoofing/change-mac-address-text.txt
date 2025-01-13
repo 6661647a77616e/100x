@@ -1,0 +1,6 @@
+why change mac address https://support.microsoft.com/en-gb/windows/why-use-random-hardware-addresses-060ad2e9-526e-4f1c-9f3d-fe6a842640ed
+
+ Settings > Network & internet > Wi-Fi. turn on Random Hardware addresses
+
+other ways how to change mac address
+https://answers.microsoft.com/en-us/windows/forum/all/cannot-change-mac-address-to-specific-value/62e8b517-ad66-4843-9812-2c6f04b4cdb4

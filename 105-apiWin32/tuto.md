@@ -1,0 +1,1 @@
+Apparently, you can only run the code once in a single session because the Win32API class cannot be created twice. To run it again, you either need to start a new PowerShell session, or you can attempt to unload the Win32API class. However, unloading the class is an advanced approach and requires careful handling
